@@ -15,4 +15,6 @@
 #/target
 
 # dotenvy
-.env.DS_Store
+.env
+# macOS
+.DS_Store
